@@ -41,8 +41,8 @@ pip install -r requirements.txt
 
 ### ✅ Terminal Output
 
-![Delta Table Output](images/output_table.png)
+![Delta Table Output](Images/output_table.png)
 
 ### 📧 Email Notification
 
-![Email Preview](images/email_notification.png)
+![Email Preview](Images/email_notification.png)
