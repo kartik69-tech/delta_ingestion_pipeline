@@ -35,3 +35,14 @@ Install required packages using:
 
 pip install -r requirements.txt
 
+---
+
+## 📷 Sample Output
+
+### ✅ Terminal Output
+
+![Delta Table Output](images/output_table.png)
+
+### 📧 Email Notification
+
+![Email Preview](images/email_notification.png)
