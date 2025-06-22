@@ -45,4 +45,4 @@ pip install -r requirements.txt
 
 ### 📧 Email Notification
 
-![Email Preview](Images/email_notification.png)
+![Email Preview](Images/E-Mail_notification.png)
