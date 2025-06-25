@@ -37,13 +37,13 @@ pip install -r requirements.txt
 
 ---
 
-## 📷 Sample Output
+## Sample Output
 
-### ✅ Terminal Output
+### Terminal Output
 
 ![Delta Table Output](Images/output_table.png)
 
-### 📧 Email Notification
+### Email Notification
 
 ![Email Preview](Images/E-Mail_notification.png)
 
