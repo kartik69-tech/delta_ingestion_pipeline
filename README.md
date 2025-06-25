@@ -48,7 +48,8 @@ pip install -r requirements.txt
 ![Email Preview](Images/E-Mail_notification.png)
 
 ## How to Run the Delta Ingestion Pipeline
-1.Prerequisites:-
+### Prerequisites:-
+
 Python 3.10 installed
 
 Java 8 (JDK 1.8) installed
@@ -59,10 +60,12 @@ winutils.exe and hadoop.dll placed in C:\hadoop\bin
 
 PYSPARK_PYTHON environment variable set correctly
 
-2.Install Required Python Packages
+### Install Required Python Packages
+
 pip install -r requirements.txt
 
-3.Run the Pipeline
+### Run the Pipeline
+
 python delta_ingestion.py
 
 This will:
@@ -79,7 +82,8 @@ Send an email notification with new records
 
 Repeat this process every 5 minutes (by default)
 
-4. Configuration (Optional)
+### Configuration (Optional)
+
 Edit these variables in delta_ingestion.py to customize:
 
 append_data(num_rows=5)    # Number of rows
