@@ -1,4 +1,4 @@
-# 🧪 Delta Lake Ingestion Pipeline
+# Delta Lake Ingestion Pipeline
 
 This is a Spark + Delta Lake data ingestion pipeline that runs locally.
 
